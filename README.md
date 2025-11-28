@@ -9,7 +9,7 @@
 
 # cara menjalankan project
 1. masuk ke folder greenpedia yang sudah di git clone
-2. select index.html
+2. klik index.html
 3. pada index.html klik kanan lalu open with live server
 4. jangan lupa install juga extensions live servernya
 
