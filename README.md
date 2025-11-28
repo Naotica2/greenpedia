@@ -14,8 +14,8 @@
 4. jangan lupa install juga extensions live servernya
 
 ## That Time i Got reincarnated as a psatir php
- Rashya adithiya
- Muhammad fauzan
- Muhammad aip saipulloh
+ 1. Rashya adithiya
+ 2. Muhammad fauzan
+ 3. Muhammad aip saipulloh
 
 Demo website: https://greenpedia.vercel.app
