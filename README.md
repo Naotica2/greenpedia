@@ -8,14 +8,14 @@
 4. git clone repo ini
 
 # cara menjalankan project
-> masuk ke folder greenpedia yang sudah di git clone
-> select index.html
-> pada index.html klik kanan lalu open with live server
-> jangan lupa install juga extensions live servernya
+1. masuk ke folder greenpedia yang sudah di git clone
+2. select index.html
+3. pada index.html klik kanan lalu open with live server
+4. jangan lupa install juga extensions live servernya
 
 ## That Time i Got reincarnated as a psatir php
-> Rashya adithiya
-> Muhammad fauzan
-> Muhammad aip saipulloh
+ Rashya adithiya
+ Muhammad fauzan
+ Muhammad aip saipulloh
 
 Demo website: https://greenpedia.vercel.app
