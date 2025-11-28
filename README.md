@@ -7,13 +7,13 @@
 > masuk ke vscode
 > git clone repo ini
 
-#cara menjalankan project
+# cara menjalankan project
 > masuk ke folder greenpedia yang sudah di git clone
 > select index.html
 > pada index.html klik kanan lalu open with live server
 > jangan lupa install juga extensions live servernya
 
-##That Time i Got reincarnated as a psatir php
+## That Time i Got reincarnated as a psatir php
 > Rashya adithiya
 > Muhammad fauzan
 > Muhammad aip saipulloh
