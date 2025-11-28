@@ -1,7 +1,7 @@
 # greenpedia
-## greenpedia website adalah website yang bergerak demi kemanusiaan dalam melestarikan lingkungan dengan cara yang positive yang dinaungi perusahaan greenpedia
+## greenpedia adalah website yang bergerak demi kemanusiaan dalam melestarikan lingkungan dengan cara yang positive, sebagai manusia yang baik kita harus bisa menjaga kelestarian lingkungan kita, dengan itu greenpedia website menyediakan materi edukasi untuk cara menjaga dan melestarikan lingkungan supaya indonesia menuju emas gapake C
 
-#petunjuk instalasi
+# petunjuk instalasi
 > siapkan vscodenya
 > pastikan internet sudah aktif
 > masuk ke vscode
